@@ -17,13 +17,11 @@ A lightweight browser-based digital clock built with HTML, CSS and JavaScript.
 
 ## Run Locally
 
-Clone the repository or download the files, then open:
-
-in a web browser.
+Open index.html in a web browser.
 
 ## Purpose
 
-This project demonstrates JavaScript application logic, DOM interaction, event handling and frontend interface development.
+This project demonstrates JavaScript date and time handling, DOM updates and basic frontend development.
 
 ## Author
 
