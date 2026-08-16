@@ -1,34 +1,33 @@
-﻿# Digital Clock
+# Digital Clock
 
-## Live Demo
+Browser-based digital clock built with HTML, CSS and JavaScript.
+
+## Live demo
 
 https://abla86.github.io/digital-clock/
 
-
-A lightweight browser-based digital clock built with HTML, CSS and JavaScript.
-
 ## Features
 
-- Real-time digital clock
+- Real-time clock display
 - Automatic time updates
-- Clean browser-based interface
-- No external dependencies
+- Responsive browser interface
+- No external runtime dependencies
 
-## Technologies
+## Technology
 
 - HTML5
 - CSS3
 - JavaScript
+- DOM API
 
-## Run Locally
+## Run locally
 
-Open index.html in a web browser.
+Open `index.html` in a modern browser.
 
 ## Purpose
 
-This project demonstrates JavaScript date and time handling, DOM updates and basic frontend development.
+Demonstrates JavaScript date/time handling, scheduled updates and dynamic DOM rendering.
 
 ## Author
 
-Anne Beth Andersen  
-GitHub: https://github.com/abla86
+Anne Beth Andersen
